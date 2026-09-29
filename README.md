@@ -8,5 +8,6 @@ Learning all pattern on "programming_in_small" level
 
 ## Styles
 
-- [stack model](./Стековая_вычислительная_модель.md)
-- [monolit model](./Монолит.md)
+- [stack model](./stack_model.md)
+- [monolit model](./monolit_model.md)
+- [without go to model](./without_go_to_model.md)
