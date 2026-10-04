@@ -12,3 +12,5 @@ Learning all pattern on "programming_in_small" level
 - [monolit model](./monolit_model.md)
 - [without go to model](./without_go_to_model.md)
 - [pipline model](./pipline_model.md)
+- [minimalism model](./minimalism_model.md)
+- [recursion model](./recursion_model.md)
